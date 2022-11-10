@@ -1,0 +1,15 @@
+{
+  "name": "mastodon-jerkcitytxt-bot",
+  "version": "1.0.0",
+  "description": "jercity mastodon bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "friday@free.burningpixel.net",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "masto": "^4.4.1"
+  }
+}
